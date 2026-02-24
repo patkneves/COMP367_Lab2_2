@@ -8,3 +8,4 @@ This ought to do it
 Please
 Tried restarting Jenkins
 Added token to webhook
+Try on a freestyle project
